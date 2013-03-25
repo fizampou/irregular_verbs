@@ -1,8 +1,6 @@
 irregular_verbs
 ===============
 
-It uses Flite an iOS library for text to speech support.
-
 This application was designed and developed by Zampounis Filippos Undergraduate student at Department of Computer and Communication Engineering, University of Thessaly, Greece. Supervisor teacher is Alkiviadis Akritas professor at University of Thessaly
 
 About the application
